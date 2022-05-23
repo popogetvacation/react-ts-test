@@ -1,1 +1,1 @@
-document.getElementById("root").append("React");
+document.getElementById("app").append("React");
